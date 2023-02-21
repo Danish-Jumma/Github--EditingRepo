@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **JavaScript & Dart**
 
-- 🌱 I’m currently learning **JavaScript,React Native & Flutter**
+- 🌱 I’m currently learning **JavaScript,React Js & Flutter**
 
 <h3 align="left">Connect with me: dk2008240@gmail.com</h3>
 <p align="left">
